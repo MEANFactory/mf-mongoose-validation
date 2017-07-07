@@ -1,6 +1,6 @@
 {
   "name": "mf-mongoose-validation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Validate extended data types, field lengths, arrays, optional values, and the like.",
   "main": "src/index.js",
   "scripts": {
