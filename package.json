@@ -1,6 +1,6 @@
 {
   "name": "mf-mongoose-validation",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Validate extended data types, field lengths, arrays, optional values, and the like.",
   "main": "src/index.js",
   "scripts": {
@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/MEANFactory/mf-mongoose-validation#readme",
   "dependencies": {
-    "mf-utils-node": ">=1.0.5",
+    "mf-utils-node": ">=1.0.6",
     "mongoose": "^4.11.4"
   },
   "devDependencies": {
